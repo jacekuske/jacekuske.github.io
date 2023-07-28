@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Research Interests"
+author: "JXK"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: IMG_6631.jpg
 ---
 
 # Lagrange
