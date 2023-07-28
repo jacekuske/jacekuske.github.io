@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Resources"
+title: "Outreach"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
