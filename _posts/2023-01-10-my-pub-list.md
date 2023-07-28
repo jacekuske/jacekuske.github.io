@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting Examples"
-author: "Paul Le"
+title: "Publications"
+author: "JXK"
 categories: journal
 tags: [documentation,sample]
-image: cards.jpg
+image: Resized_20190622_164834_3136.jpg
 ---
 
 # Markdown Support
