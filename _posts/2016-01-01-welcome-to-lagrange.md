@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: IMG_5985(2).JPG
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I am a third-year graduate student in UC Davis' Biological Psychology Graduate Group working in the Trainor Lab. Although I am in the Psychology department, my interests lie within the realm of integrative biology, ecology, neuroendocrinology, and animal behavior. When not in the lab, I spend my time engaging in outreach, hiking, and playing with my cats.
 
 ## Getting Started
 
