@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Home"
+author: "JXK"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: IMG_5985(2).JPG
 ---
 
 Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
