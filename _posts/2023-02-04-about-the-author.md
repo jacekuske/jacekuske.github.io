@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: LabPhotosMay25-210 (2).jpg
 ---
 
-Hi there! I'm Jace, a graduate student and lover of science. I began a career in science in late 2017 at Cal State San Marcos, but I have always had an unappreciated love of natural history and the methods used to investigate it. Although I love learning about all animals, my research interests prioritize understanding the fascinating biology underlying female behavior. Click this page to learn a bit more about me!
+Hi there! I'm Jace, a graduate student and lover of science. I began a career in science in late 2017 at Cal State San Marcos, but I have always had an unappreciated love of natural history and the methods used to investigate it. My research interests prioritize understanding the fascinating biology underlying female behavior. Click this page to learn a bit more about me!
 <p></p>
 <p></p>
 <b>INTEGRATING CULTURAL CELEBRATION WITH SCIENTIFIC INNOVATION</b>
