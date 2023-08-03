@@ -4,8 +4,8 @@ title: "Research Interests"
 author: "JXK"
 categories: journal
 tags: [documentation,sample]
-image: IMG_6631.jpg
 ---
+image: IMG_6631.jpg
 
 # Primary Areas of Interest
 
