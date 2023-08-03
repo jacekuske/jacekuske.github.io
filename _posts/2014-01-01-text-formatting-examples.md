@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Publications"
-author: "JXK"
+title: "Text formatting"
+author: "N/A"
 categories: journal
 tags: [documentation,sample]
 image: Resized_20190622_164834_3136.jpg
