@@ -9,7 +9,7 @@ google-ID: '000'
 menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Research', url: 'research.html'}
-- {name: 'Pubs', url: 'publications.html'}
+- {name: 'Publications', url: 'publications.html'}
 - {name: 'Outreach', url: 'outreach.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'Contact', url: 'contact.html'}
