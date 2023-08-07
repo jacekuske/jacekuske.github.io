@@ -3,7 +3,7 @@ layout: page
 title: Cultural celebration mixed with scientific exploration
 permalink: /research
 ---
-![](<(https://github.com/jacekuske/jacekuske.github.io/blob/gh-pages/assets/img/9227507.jpg)> "Image meta title")
+![alt text](<https://github.com/jacekuske/jacekuske.github.io/blob/gh-pages/assets/img/9227507.jpg> "Image meta title")
 ## Primary Areas of Interest
 
 As a behavioral neuroendocrinologist, I have three main focuses in my work: animal behavior, neuroscience, and hormones. With an emphasis on female animals, I look at the intersection between behavior, brains, and hormones. I am especially interested in how the specific circuits that underly aggressive behavior in the current species I work with, Californicus peromyscus - also known as the California mouse. 
