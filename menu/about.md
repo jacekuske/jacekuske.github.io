@@ -3,7 +3,7 @@ layout: page
 title: Welcome to my page!
 permalink: /about
 ---
-![alt text](<https://github.com/jacekuske/jacekuske.github.io/blob/gh-pages/assets/img/IMG_5985(2).JPG> "pic of meeee")
+(<https://github.com/jacekuske/jacekuske.github.io/blob/gh-pages/assets/img/IMG_5985(2).JPG> "pic of meeee")
 
 I am a third-year graduate student in UC Davis' Biological Psychology Graduate Group working in the Trainor Lab. My interests lie within the realm of integrative biology, ecology, neuroendocrinology, and female animal behavior. When not in the lab, I spend my time engaging in outreach, hiking, and playing with my cats.
 
