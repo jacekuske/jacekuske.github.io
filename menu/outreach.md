@@ -3,6 +3,7 @@ layout: page
 title: Outreach and Service
 permalink: /outreach
 ---
+A copy of my CV is [here](https://drive.google.com/file/d/1de5UNqcIgjwox_ZoEKQybjwN9_kJ0Qnm/view?usp=sharing)!
 ### Science communication is key
 I am hugely passionate for providing equal and equitable access to scientific information, and I have a long history of particiating in science communication. Most of this work was done in my hometown through career day events at my old elementary and Community College after I began a career in science in 2017. I have experience teaching children about a range of topics under biology and ecology, as well as preparing and hosting hands-on science crafting booths with Super STEM Saturday. I have also worked with [Skype A Scientist](https://twitter.com/JaceKuske/status/1561837387872776193?s=20) and taught children about their local wildlife and my own research in a manner that was digestable to their grade levels. 
 ### Mentorship keeps science thriving
